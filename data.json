@@ -1,30 +1,92 @@
 {
-    "series": [
-      {
-        "x": "Snøklokke",
-        "y": ["2019-02-27", "2019-03-04"],
-        "fillColor": "#008FFB"
-      },
-      {
-        "x": "Vinterblom",
-        "y": ["2019-03-04", "2019-03-08"],
-        "fillColor": "#00E396"
-      },
-      {
-        "x": "Vårkrokus",
-        "y": ["2019-03-07", "2019-03-10"],
-        "fillColor": "#775DD0"
-      },
-      {
-        "x": "Aubrietia",
-        "y": ["2019-03-08", "2019-03-12"],
-        "fillColor": "#FEB019"
-      },
-      {
-        "x": "Hyasint",
-        "y": ["2019-03-12", "2019-03-17"],
-        "fillColor": "#FF4560"
-      }
-    ]
-  }
-  
+  "series": [
+    {
+      "category": "stauder-lokvekster-og-andre-hageplanter",
+      "x": "Snøklokke",
+      "y": ["2019-03-01", "2019-04-01"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#008FFB"
+    },
+    {
+      "category": "stauder-lokvekster-og-andre-hageplanter",
+      "x": "Vinterblom",
+      "y": ["2019-03-01", "2019-04-01"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#00E396"
+    },
+    {
+      "category": "stauder-lokvekster-og-andre-hageplanter",
+      "x": "Vårkrokus",
+      "y": ["2019-03-01", "2019-05-01"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#775DD0"
+    },
+    {
+      "category": "stauder-lokvekster-og-andre-hageplanter",
+      "x": "Aubrietia",
+      "y": ["2019-04-01", "2019-05-01"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FEB019"
+    },
+    {
+      "category": "stauder-lokvekster-og-andre-hageplanter",
+      "x": "Hyasint",
+      "y": ["2019-04-01", "2019-05-01"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FF4560"
+    },
+    {
+      "category": "krydderplanter",
+      "x": "Ramsløk",
+      "y": ["2019-05-01", "2019-06-01"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FF4560"
+    },
+    {
+      "category": "krydderplanter",
+      "x": "Gressløk",
+      "y": ["2019-06-01", "2019-06-05"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FF4560"
+    },
+    {
+      "category": "prydtraer-og-busker",
+      "x": "Hassel",
+      "y": ["2019-04-06", "2019-04-10"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FF4560"
+    },
+    {
+      "category": "prydtraer-og-busker",
+      "x": "Selje, pil og vier",
+      "y": ["2019-04-11", "2019-04-15"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FF4560"
+    },
+    {
+      "category": "frukttraer-og-baerbusker",
+      "x": "Stikkelsbær",
+      "y": ["2019-04-16", "2019-04-20"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FF4560"
+    },
+    {
+      "category": "frukttraer-og-baerbusker",
+      "x": "Plommer",
+      "y": ["2019-04-21", "2019-04-25"],
+      "pollen": 0,
+      "nektar": 0,
+      "fillColor": "#FF4560"
+    }
+  ]
+}
